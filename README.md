@@ -85,5 +85,5 @@ This project aims to:
 
 ### Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Taofeeq-T/Vision-Transformers-vs-CNNs-on-MRI-Brain-Tumor-Detection.git
 
